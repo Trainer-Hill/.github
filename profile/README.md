@@ -1,4 +1,4 @@
-# Trainer Hill
+![logo](/profile/logo_black.png)
 
 **Tools for the competitive TCG player.**
 
