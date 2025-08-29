@@ -29,7 +29,6 @@ Top tools available:
 Custom badges and leaderboards for competitive communities.
 
 * Repo: [github.com/Trainer-Hill/badge-leaderboard](https://github.com/Trainer-Hill/badge-leaderboard)
-* Demo / Docs: coming soon
 
 ---
 
