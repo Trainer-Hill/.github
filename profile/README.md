@@ -14,7 +14,7 @@ We provide useful tools and analysis to help competitive TCG players prepare, pl
 
 ## Tools
 
-### Main Site — [trainerhill.com](https://trainerhill.com)
+### Main Site - [trainerhill.com](https://trainerhill.com)
 
 Top tools available:
 
@@ -24,11 +24,17 @@ Top tools available:
 * **Deck Diff** – Compare decklists, see overlaps
 * **Prize Checker** – Practice prize checking skills
 
-### Badge Leaderboard
+### Badge Leaderboard - [badges.trainerhill.com](https://badges.trainerhill.com)
 
 Custom badges and leaderboards for competitive communities.
 
 * Repo: [github.com/Trainer-Hill/badge-leaderboard](https://github.com/Trainer-Hill/badge-leaderboard)
+
+### Uptime to Discord
+
+A lightweight, cron-based service that checks the health of your websites and sends downtime alerts directly to Discord via webhooks.
+
+* Repo: [github.com/Trainer-Hill/uptime-to-discord](https://github.com/Trainer-Hill/uptime-to-discord)
 
 ---
 
